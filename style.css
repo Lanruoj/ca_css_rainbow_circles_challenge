@@ -1,0 +1,47 @@
+/* Style the elements here */
+body {
+    margin: 0;
+  }
+  div {
+    position: relative;
+  }
+  
+  #one {
+    height: 600px;
+    width: 600px;
+    background-color: orange;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 50px;
+    border-color: red;
+    box-sizing: border-box;
+    position: absolute;
+  }
+  
+  .two {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 100;
+    top: 100;
+    box-sizing: border-box;
+  }
+  
+  .three {
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    border-style: solid;
+    border-color: blue;
+    border-width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 200;
+    top: 200;
+    box-sizing: border-box;
+  }
