@@ -1,19 +1,20 @@
-Rainbow Circles
+# Rainbow Circles
+
 While only modifying the CSS and not modifying the HTML create six concentric circles, each of width 50 pixels.
 
 The colours for the circles should be:
 
-rebeccapurple
+- rebeccapurple
 
-royalblue
+- royalblue
 
-green
+- green
 
-yellow
+- yellow
 
-orange
+- orange
 
-red
+- red
 
 This is what your final solution should look like:
 
