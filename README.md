@@ -4,17 +4,17 @@ While only modifying the CSS and not modifying the HTML create six concentric ci
 
 The colours for the circles should be:
 
-- rebeccapurple
+- ```rebeccapurple```
 
-- royalblue
+- ```royalblue```
 
-- green
+- ```green```
 
-- yellow
+- ```yellow```
 
-- orange
+- ```orange```
 
-- red
+- ```red```
 
 This is what your final solution should look like:
 
