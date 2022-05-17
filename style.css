@@ -35,9 +35,9 @@ body {
   .three {
     height: 200px;
     width: 200px;
-    background-color: purple;
+    background-color: rebeccapurple;
     border-style: solid;
-    border-color: blue;
+    border-color: royalblue;
     border-width: 50px;
     border-radius: 50%;
     position: absolute;
